@@ -26,10 +26,11 @@
 *.a
 *.lib
 
-# Executables
+# Executables and output files
 *.exe
 *.out
 *.app
+*.ppm
 
 # Visual Studio Files
 .vs/
